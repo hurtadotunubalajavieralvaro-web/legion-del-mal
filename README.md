@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/hurtadotunubalajavieralvaro-web/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/hurtadotunubalajavieralvaro-web/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/hurtadotunubalajavieralvaro-web/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/hurtadotunubalajavieralvaro-web/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/hurtadotunubalajavieralvaro-web/legion-del-mal?&cacheSeconds=60)
 
 
 # 🦹‍♂️ La Legión del Mal
