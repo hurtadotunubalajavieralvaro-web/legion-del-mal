@@ -14,11 +14,7 @@
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-<<<<<<< HEAD
 ## ¿Quiénes somos? - Desde Remoto y local
-=======
-## ¿Quiénes somos? - Remoto
->>>>>>> e45b19e779382c8e3d81f439e97340dbf5dd6d21
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
