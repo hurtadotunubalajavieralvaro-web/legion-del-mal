@@ -9,13 +9,14 @@
 ![Licencia](https://img.shields.io/github/license/hurtadotunubalajavieralvaro-web/legion-del-mal?&cacheSeconds=60)
 
 
-# 🦹‍♂️ La Legión del Mal - Desde Remoto y local
+# 🦹‍♂️ La Legión del Mal 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
 ## ¿Quiénes somos? - Desde Remoto y local
 
+## ¿Quiénes somos? - Desde Remoto y local
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
 ## Estructura de la organización!!
